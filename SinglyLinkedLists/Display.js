@@ -13,7 +13,7 @@ class SLL {
     let new_node = new Node(data);
     new_node.next = this.head;
     this.head = new_node;
-    return this.head;
+    return this.head; //return this
     }
     removeFront() {
         if(this.head == null) {
