@@ -2,10 +2,6 @@ Josh burlile token for downton visual guide
 
  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
 
-projectmanager token for google calendar api
-client id: 993484842395-2f9rgtqkrt2rsjf6sjoo3vulfm29vmv9.apps.googleusercontent.com
-
-client secret: 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
 
 GIT CLONE
 
